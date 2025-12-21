@@ -12,7 +12,7 @@
 ****
 
 # Hello there! 👋
-- **My real name is Jacopo, but you can call me Jay. I'm a software fork developer, starting the journey with emolnDS — a NintendoDS emulator based off melonDS. Im currently working on [Winlator@Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost), which is my most successful project yet.**
+- **My real name is Jacopo, but you can call me Jay. I'm a software fork developer, starting the journey with emolnDS — a NintendoDS emulator based off melonDS. Im currently working on [star](https://github.com/jacojayy/star/), which is my most successful project yet.**
 
 ----
 
