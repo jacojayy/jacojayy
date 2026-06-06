@@ -23,12 +23,3 @@
 
 ### Ask me any questions 📬
 - **You can ask me any questions in the issues tab of this repository. I will reply as fast as I can.**
-
----
-
-### GitHub Status ✨
-<details>
-  <summary><strong>📊 Click here to show my GitHub Stats</strong></summary>
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=jacojayy\&show_icons=true\&theme=dark#gh-dark-mode-only)]()
-</details>
