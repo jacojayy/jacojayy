@@ -22,4 +22,4 @@
 ----
 
 ### Ask me any questions 📬
-- **You can ask me any questions in the issues tab of this repository. I will reply as fast as I can.**
+- **You can ask me any questions on Discord. I will reply as fast as I can.**
