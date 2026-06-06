@@ -12,12 +12,12 @@
 ****
 
 # Hello there! 👋
-- **My real name is Jacopo, but you can call me Jay. I'm a software fork developer, starting the journey with emolnDS — a NintendoDS emulator based off melonDS. Im currently working on [star](https://github.com/jacojayy/star/), which is my most successful project yet.**
+- **My real name is Jacopo Hernandez, but you can call me Jay. I'm a software developer, starting the journey with emolnDS — a NintendoDS emulator based off melonDS. Im currently working on [Star](https://github.com/jacojayy/star/), which is my most successful project yet.**
 
 ----
 
-### my literal purpose
-- **My persona's purpose is to improve upon existing emulation projects on Android, yes, only that. While I dont do massive changes, I aim to do the possible.**
+### What I do
+- **I'm passionate on making PC Gaming on Android more easy and accessible to everyone with [star](https://github.com/jacojayy/star/), an application using Wine/Proton to run Windows applications/games on Android.**
 
 ----
 
